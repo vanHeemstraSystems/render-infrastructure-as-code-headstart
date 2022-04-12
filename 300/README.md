@@ -156,4 +156,8 @@ ___
 
 ___
 
-3) 
+3) Click the **New Blueprint Instance** button.
+
+___
+
+
