@@ -163,4 +163,7 @@ ___
 4) Select the repo and branch containing the ```render.yaml``` file. Here we will be using this repo (https://github.com/vanHeemstraSystems/render-infrastructure-as-code-headstart).
 ___
 
-5) 
+5) Once selected, you’ll see a list of the changes that will be applied based on the contents of ```render.yaml```. If there’s an issue with the file you’ll see an error message. If everything looks good, click **Apply** to create the resources defined in your file.
+___
+
+You’re all set! Future updates to your ```render.yaml``` will be synced automatically and we’ll notify you if there are any issues with the syncs.
