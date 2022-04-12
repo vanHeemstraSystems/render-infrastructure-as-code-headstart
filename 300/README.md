@@ -3,6 +3,7 @@
 Based on "Getting Started" at https://render.com/docs/infrastructure-as-code
 
 ## 100 - Getting Started
+___
 
 1) Create a Blueprint Spec (a file called ```render.yaml```) at the root of your repo. You can start with [our sample Blueprint](https://render.com/docs/blueprint-spec) and modify it to match your services.
 
@@ -149,5 +150,6 @@ envVarGroups:
         value: https://api.stripe.com/v2
 ```
 sample Blueprint render.yaml file
+___
 
-2) 
+2) Click **Blueprints** in the navigation sidebar in the dashboard ().
