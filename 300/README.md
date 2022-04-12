@@ -152,4 +152,8 @@ envVarGroups:
 sample Blueprint render.yaml file
 ___
 
-2) Click **Blueprints** in the navigation sidebar in the dashboard ().
+2) Click **Blueprints** in the navigation sidebar in the dashboard (https://dashboard.render.com/).
+
+___
+
+3) 
