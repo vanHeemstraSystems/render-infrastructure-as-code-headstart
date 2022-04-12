@@ -160,4 +160,7 @@ ___
 
 ___
 
+4) Select the repo and branch containing the ```render.yaml``` file. Here we will be using this repo (https://github.com/vanHeemstraSystems/render-infrastructure-as-code-headstart).
+___
 
+5) 
