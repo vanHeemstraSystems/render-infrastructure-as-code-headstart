@@ -27,7 +27,7 @@ services:
     name: minio
     env: docker
     repo: https://github.com/render-examples/minio.git # optional
-    healthCheckPath: /minio/health/live
+    # healthCheckPath: /minio/health/live # pserv service type cannot have a health check path
     envVars:
     - key: MINIO_ROOT_PASSWORD
       generateValue: true # will generate a base64-encoded 256-bit secret
